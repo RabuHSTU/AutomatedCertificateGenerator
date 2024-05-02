@@ -1,5 +1,5 @@
 
-![image](https://github.com/RabuHSTU/AutomatedCertificateGenerator/assets/146182299/5f346e05-6e83-42e3-bc90-e954af457eec)
+![image](https://github.com/RabuHSTU/AutomatedCertificateGenerator/assets/146182299/31668b43-3601-4b25-af9f-73b7baca8b15)
 
 
 # Automated Certificate Generator
